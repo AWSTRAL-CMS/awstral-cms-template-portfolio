@@ -1,0 +1,8 @@
+{
+  "primaryColor": "#111827",
+  "secondaryColor": "#ef4444",
+  "fontFamily": "\"Syne\", \"DM Sans\", sans-serif",
+  "baseFontSize": "16px",
+  "spacingUnit": "0.25rem",
+  "borderRadius": "0.5rem"
+}
