@@ -1,5 +1,5 @@
 {
-  "name": "@platform/portfolio",
+  "name": "@awstral-cms/portfolio",
   "version": "0.0.1",
   "private": true,
   "description": "Showcase projects with a visual-first Astro portfolio template for creatives and studios.",
@@ -16,8 +16,8 @@
     "validate:manifest": "bun run scripts/validate-manifest.ts"
   },
   "dependencies": {
-    "@platform/bridge": "workspace:*",
-    "@platform/shared": "workspace:*"
+    "@awstral-cms/bridge": "workspace:*",
+    "@awstral-cms/shared": "workspace:*"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.2.1",
